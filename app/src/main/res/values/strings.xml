@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">코로나 상황판</string>
+
+    <!--Credits only-->
+    <string name="credits1">Base By COVID19 API</string>
+    <string name="credits2">Base By Naver OPEN API</string>
+    <string name="libs">…</string>
+    <string name="version">v1.0.0</string>
+    <!--        업데이트 확인-->
+    <string name="version_message">최신버전이 나왔습니다. 구글플레이에서 업데이트 해주세요.</string>
+    <string name="developed_by_">Developed by jw</string>
+
+    <!--네이버 검색API-->
+    <string name="NAVER_API_clientId">NAVER API ID KEY </string>
+    <string name="NAVER_API_clientSecret">NAVER API PASSWORD </string>
+
+    <string name="center_board">코로나19 상황판</string>
+    <string name="center_sido">시 도 발생 현황</string>
+
+    <!--APP KEY-->
+    <string name="API_KEY"> KEY </string>
+    <string name="API_URL"> API </string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string-array name="planets_array">
+        <item>제주</item>
+        <item>경남</item>
+        <item>경북</item>
+        <item>전남</item>
+        <item>전북</item>
+        <item>충남</item>
+        <item>충북</item>
+        <item>강원</item>
+        <item>경기</item>
+        <item>세종</item>
+        <item>울산</item>
+        <item>대전</item>
+        <item>광주</item>
+        <item>인천</item>
+        <item>대구</item>
+        <item>부산</item>
+        <item>서울</item>
+    </string-array>
+
+    <string name="HOS_A_CD">A: 일반 호흡기 환자 진료를 위한 호흡기 전용 외래 설치 운영 병원</string>
+    <string name="HOS_B_CD">B: 호흡기 환자 전용 외래입원 진료가 가능한 선별진료소 운영 병원</string>
+    <string name="exam_about">아래로 새로고침하여 새로운 병원타입을 선택하실 수 있습니다. </string>
+    <string name="covid_19_situation_board">COVID-19 Situation Board | </string>
+
+
+</resources>

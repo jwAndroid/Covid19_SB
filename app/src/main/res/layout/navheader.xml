@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/mainColor"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/hav_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/icon1"/>
+
+    <TextView
+        android:id="@+id/title_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/myfont"
+        android:textStyle="bold"
+        android:text="@string/covid_19_situation_board"
+        android:textColor="#fff"
+        android:textSize="13sp"
+        android:layout_toEndOf="@+id/hav_icon"
+        android:layout_marginStart="10dp"
+        android:layout_centerInParent="true"/>
+
+
+
+
+
+</RelativeLayout>

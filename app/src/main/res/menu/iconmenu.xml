@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item android:title="Notification">
+    <menu>
+      <item
+          android:id="@+id/app_notification_menu"
+          android:icon="@drawable/noti_icon8"
+          android:title="공지사항"/>
+
+      <item
+          android:id="@+id/notification_menu"
+          android:icon="@drawable/notification_icon8"
+          android:title="알림설정" />
+    </menu>
+  </item>
+
+  <item android:title="Service">
+    <menu>
+      <item
+          android:id="@+id/hosptital_menu"
+          android:icon="@drawable/hospital_icon8"
+          android:title="진료소"/>
+
+      <item
+          android:id="@+id/world_news_menu"
+          android:icon="@drawable/world_news_icon8"
+          android:title="세계 뉴스" />
+    </menu>
+  </item>
+
+  <item android:title="Copyright">
+    <menu>
+      <item
+          android:id="@+id/feedback_menu"
+          android:icon="@drawable/feedback_icon8"
+          android:title="피드백"/>
+
+      <item
+          android:id="@+id/sh_menu"
+          android:icon="@drawable/sh_icon8"
+          android:title="공유"/>
+
+      <item
+          android:id="@+id/copyright_menu"
+          android:icon="@drawable/copyright_icons8"
+          android:title="저작권"/>
+
+
+    </menu>
+  </item>
+
+  <item android:title="About">
+    <menu>
+      <item
+          android:id="@+id/terms_menu"
+          android:icon="@drawable/terms_icon8"
+          android:title="이용약관"/>
+
+      <item
+          android:id="@+id/dev_page_menu"
+          android:icon="@drawable/jw_dev_new_icon8"
+          android:title="Devloper" />
+
+    </menu>
+  </item>
+
+
+</menu>

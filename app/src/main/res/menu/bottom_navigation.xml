@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/vec_home"
+        android:enabled="true"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_city"
+        android:icon="@drawable/vec_world"
+        android:enabled="true"
+        android:title="City"/>
+
+    <item
+        android:id="@+id/nav_world"
+        android:icon="@drawable/vec_world"
+        android:enabled="true"
+        android:title="World"/>
+
+    <item
+        android:id="@+id/nav_news"
+        android:icon="@drawable/vec_news"
+        android:enabled="true"
+        android:title="News"/>
+
+
+
+</menu>
