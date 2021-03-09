@@ -26,5 +26,14 @@
 - News.org
 - corona.lmao.ninja
 
-**텍스트**
+- open API of app , If you want to get key , sign up to this homepage and get own key.
+
+```swift
+public struct CGSize {
+  public var width: CGFloat
+  public var heigth: CGFloat
+  ...
+}
+```
+
 
