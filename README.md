@@ -26,14 +26,18 @@
 - News.org
 - corona.lmao.ninja
 
-- open API of app , If you want to get key , sign up to this homepage and get own key.
 
-```swift
-public struct CGSize {
-  public var width: CGFloat
-  public var heigth: CGFloat
-  ...
-}
+**open API of app , If you want to get key , sign up to this homepage and get own key.**
+```java
+
+    <!--네이버 검색API-->
+    <string name="NAVER_API_clientId">NAVER API ID KEY </string>
+    <string name="NAVER_API_clientSecret">NAVER API PASSWORD </string>
+
+    <!--APP KEY-->
+    <string name="API_KEY"> KEY </string>
+    <string name="API_URL"> API </string>
+    
 ```
 
 
