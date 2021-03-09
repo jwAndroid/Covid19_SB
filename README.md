@@ -7,7 +7,7 @@
 ## Introduction
 *This application was thoroughly developed for my education. 
   This app provides the situation and information about how much the coronavirus is going on. 
-  The main function of this app is using the Restful API and parses XML and JSON data to provide accurate figures. 
+  The main function of this app is using the Restful API, parses XML and JSON data to provide accurate figures. 
   Other functions provide news, hospital information, world information, world news, daily notifications.*
 
 ## Development Environment
