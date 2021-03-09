@@ -5,7 +5,7 @@
 - blog : https://devcomjw.blogspot.com <br />
 
 ## Introduction
--This application was thoroughly developed for my education. This app provides the situation and information about how much the coronavirus is going on. The main function of this app is using the Restful API and parses XML and JSON data to provide accurate figures. Other functions provide news, hospital information, world information, world news, daily notifications.
+-*This application was thoroughly developed for my education. This app provides the situation and information about how much the coronavirus is going on. The main function of this app is using the Restful API and parses XML and JSON data to provide accurate figures. Other functions provide news, hospital information, world information, world news, daily notifications.*
 
 ## Development Environment
 - Android Studio @ 4.1.2
@@ -23,5 +23,3 @@
 - News.org
 - corona.lmao.ninja
 
-- open API of Korean Film Council (homepage : https://www.kobis.or.kr/kobisopenapi/homepg/main/main.do) <br />
-If you want to get box office ranking, sign up to this homepage and get own key. <br />
