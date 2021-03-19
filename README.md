@@ -1,6 +1,6 @@
 # Covid19 - Situation board
 - project for jw <br />
-- email address : cjd9408er@naver.com <br />
+- email address : cjd9408abcd@gmail.com <br />
 - Demo Video : https://devcomjw.blogspot.com/2021/03/blog-post.html <br />
 - All Demo Video : https://devcomjw.blogspot.com/2021/03/ppt.html <br />
 - blog : https://devcomjw.blogspot.com <br />
